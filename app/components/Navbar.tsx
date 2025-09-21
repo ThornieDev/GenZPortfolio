@@ -43,15 +43,15 @@ const Navbar = () => {
 				>
 					<Link href="https://github.com/ThornieDev">
 						<Image
-							src="/logo.png"
-							width={80}
-							height={80}
+							src="/logo.jpg"
+							width={90}
+							height={90}
 							alt="logo"
 							priority
-							className="object-contain"
+							className="object-contain rounded-full transition duration-300 hover:shadow-[0_0_20px_5px_rgba(59,130,246,0.6)] hover:scale-105"
 						/>
 					</Link>
-					<p className="text-white text-[18px] font-bold cursor-pointer flex">
+					<p className="text-white text-[25px] font-bold cursor-pointer flex ml-5">
 						KDEB-IT &nbsp; <span className="sm:block hidden ">| ThornieDev</span>
 					</p>
 				</div>
