@@ -137,15 +137,15 @@ const testimonials = [
       "Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
     name: "Om Patel",
     image: "/socialmedia/behance.svg",
-    link: "https://www.behance.net/omthecreator",
+    link: "https://www.youtube.com",
   },
   {
     id: 2,
     testimonial:
       "LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
     name: "Om Patel",
-    image: "/socialmedia/linkedin.svg",
-    link: "https://www.linkedin.com/in/om-patel-401068143/",
+    image: "/socialmedia/Facebook_icon.svg",
+    link: "https://www.facebook.com/share/19VSBE8rGQ/?mibextid=wwXIfr",
   },
   {
     id: 3,
@@ -153,7 +153,7 @@ const testimonials = [
       "Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
     name: "Om Patel",
     image: "/socialmedia/dribble.svg",
-    link: "https://dribbble.com/om2121",
+    link: "https://www.facebook.com/share/19VSBE8rGQ/?mibextid=wwXIfr",
   },
   {
     id: 4,
@@ -161,7 +161,7 @@ const testimonials = [
       "Also do check out my UI/UX Portfolio where I have shared by design studies.",
     name: "Om Patel",
     image: "/socialmedia/portfolio.svg",
-    link: "https://omthecreator.netlify.app/",
+    link: "https://www.facebook.com/share/19VSBE8rGQ/?mibextid=wwXIfr",
   },
   {
     id: 5,
@@ -169,7 +169,7 @@ const testimonials = [
       "Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
     name: "Om Patel",
     image: "/tech/github.webp",
-    link: "https://github.com/omunite215",
+    link: "https://github.com/ThornieDev",
   },
 ];
 
